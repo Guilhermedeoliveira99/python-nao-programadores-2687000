@@ -18,5 +18,5 @@ print(pessoas.pop())
 print(pessoas)
 
 # Remova da lista um item específico
-pessoas.remove(22)
+pessoas.remove(2002)
 print(pessoas)
